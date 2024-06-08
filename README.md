@@ -23,7 +23,7 @@ Follow these steps to get your local environment set up:
 2. Navigate into the project directory:
 
    ```bash
-   cd your-repo
+   cd DragAndDropProject
    ```
 
 3. Install dependencies:
