@@ -16,7 +16,7 @@ Follow these steps to get your local environment set up:
 1. Clone the repository:
 
    ```bash
-   git clone [<url>](https://github.com/VaibhavRajani/DragAndDropProject.git)
+   git clone https://github.com/VaibhavRajani/DragAndDropProject.git
 
    ```
 
