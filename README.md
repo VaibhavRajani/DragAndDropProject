@@ -2,6 +2,8 @@
 
 Welcome to the Drag And Drop Project, an innovative web application built using the power of Next.js and styled with Tailwind CSS. This project demonstrates a highly interactive drag-and-drop interface that can be used as a template for more complex applications requiring dynamic user interactions.
 
+Live Demo: https://drag-and-drop-project-iota.vercel.app/
+
 ## Features
 
 - **Dynamic Drag-and-Drop**: Powered by React Beautiful DND, this project allows users to interact with elements seamlessly across the application.
